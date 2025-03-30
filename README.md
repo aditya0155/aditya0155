@@ -7,8 +7,6 @@
 📚 Currently diving into NLP & LangChain.  
 🔍 Passionate about Data Science & AI.
 
----
-
 **🧠 Fun Fact:** The first computer bug was an actual insect! 🪲  
 In 1947, engineers working on the Harvard Mark II discovered a moth causing a relay malfunction. They taped it in their logbook and coined the term "bug"—a little accident that made history!
 
