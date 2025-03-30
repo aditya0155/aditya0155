@@ -1,5 +1,7 @@
 # 💫 About Me:
-<p>👋 Hey, I'm Aditya!</p>
+<p>👋 Hey, I'm Aditya!</p> <img src="https://user-images.githubusercontent.com/74038190/216655840-d7262fea-0313-4161-9c45-f69077ea6a2f.gif" width="200">
+<br><br>
+
 <p>🚀 I love contributing to open source in my free time.</p>
 <p>📚 Currently diving into NLP & LangChain.</p>
 <p>🔍 Passionate about Data Science & AI.</p>
