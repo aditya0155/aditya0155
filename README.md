@@ -1,8 +1,8 @@
-# 💫 About Me: <h3>👋 Hey, I'm Aditya!</h3>
 
 <table>
   <tr>
     <td>
+      <h3>👋 Hey, I'm Aditya!</h3>
       🚀 I love contributing to open source in my free time. <br>
       📚 Currently diving into NLP & LangChain. <br>
       🔍 Passionate about Data Science & AI.
