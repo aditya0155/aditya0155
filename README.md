@@ -1,8 +1,8 @@
 # 💫 About Me:
-👋 Hey, I’m Aditya! <br>  
-🚀 I love contributing to open source in my free time. <br>  
-📚 Currently diving into NLP & LangChain. <br>  
-🔍 Passionate about Data Science & AI. <br>  
+👋 Hey, I’m Aditya!
+🚀 I love contributing to open source in my free time.
+📚 Currently diving into NLP & LangChain. 
+🔍 Passionate about Data Science & AI.   
 <br>  
 🧠 <b>Fun Fact:</b> The first computer bug was an actual insect! 🪲 <br>  
 In 1947, engineers working on the Harvard Mark II found a moth stuck in a relay, causing an error. <br>  
