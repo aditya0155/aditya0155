@@ -1,7 +1,4 @@
 # 💫 About Me:
-<style>
-  p { margin: 5px 0; }
-</style>
 <p>👋 Hey, I'm Aditya!</p>
 <p>🚀 I love contributing to open source in my free time.</p>
 <p>📚 Currently diving into NLP & LangChain.</p>
