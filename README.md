@@ -7,8 +7,8 @@
 📚 Currently diving into NLP & LangChain.  
 🔍 Passionate about Data Science & AI.
 
-<p>🧠 <b>Fun Fact:</b> The first computer bug was an actual insect! 🪲  
-In 1947, engineers working on the Harvard Mark II found a moth stuck in a relay, causing an error.  
+🧠 <b>Fun Fact:</b> The first computer bug was an actual insect! 🪲  <p>
+In 1947, engineers working on the Harvard Mark II found a moth stuck in a relay, causing an error.  <p>
 They taped it in their logbook and called it a "bug"—making history! </p>
 
 
