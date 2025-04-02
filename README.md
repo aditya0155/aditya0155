@@ -5,7 +5,7 @@
 **👋 Hey, I'm Aditya!**  
 🚀 I love contributing to open source in my free time.  
 📚 Currently diving into NLP & LangChain.  
-🔍 Passionate about Data Science & AI..
+🔍 Passionate about Data Science & AI.
 
 ---
 
