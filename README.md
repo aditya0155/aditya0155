@@ -15,8 +15,9 @@
 
 🧠 **Fun Fact:** The first computer bug was an actual insect! 🪲
 
-Back in 1947, engineers working on the **Harvard Mark II** discovered a moth inside a relay.  
-They taped it into their logbook, called it a **"bug"**, and accidentally created one of tech's most famous terms.
+In 1947, engineers working on the **Harvard Mark II** found a moth trapped in a relay.  
+They taped it into their logbook and called it a **"bug"**, making tech history!
+
 
 
 </div>
