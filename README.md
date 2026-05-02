@@ -1,8 +1,10 @@
 # 💫 About Me
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
+<div align="center">
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="420">
+
+<div align="left">
 
 **👋 Hey, I'm Aditya!**  
 🚀 I love contributing to open source in my free time.  
@@ -15,12 +17,12 @@
 
 In 1947, engineers working on the Harvard Mark II found a moth in a relay, causing an error. They taped it in their logbook and called it a "bug"—making history!
 
-</td>
-    <td width="45%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
-    </td>
-  </tr>
-</table>
+</div>
+
+<br clear="right"/>
+
+</div>
+
 
 ---
 
