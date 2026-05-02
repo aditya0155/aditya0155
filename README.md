@@ -63,8 +63,6 @@ In 1947, engineers working on the Harvard Mark II found a moth in a relay, causi
   </tr>
 </table>
 
----
-
 [![](https://visitcount.itsvg.in/api?id=aditya0155&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <picture>
