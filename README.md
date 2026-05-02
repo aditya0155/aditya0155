@@ -15,8 +15,7 @@
 
 🧠 **Fun Fact:** The first computer bug was an actual insect! 🪲
 
-In 1947, engineers working on the **Harvard Mark II** found a moth trapped in a relay.  
-They taped it into their logbook and called it a **"bug"**, making tech history!
+In 1947, engineers working on the Harvard Mark II found a moth in a relay, causing an error. They taped it in their logbook and called it a "bug"—making history!
 
 
 
