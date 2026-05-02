@@ -47,27 +47,27 @@ In 1947, engineers working on the Harvard Mark II found a moth in a relay, causi
 
 
 
-
 ## 📊 GitHub Stats
 
-<table>
+<table width="100%">
   <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya0155&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    <td width="40%" valign="middle" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya0155&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" />
     </td>
-    <td align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
+    <td width="30%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="170" />
     </td>
-    <td align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
+    <td width="30%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="170" />
     </td>
   </tr>
 </table>
 
-[![](https://visitcount.itsvg.in/api?id=aditya0155&icon=0&color=0)](https://visitcount.itsvg.in)
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aditya0155/aditya0155/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aditya0155/aditya0155/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/aditya0155/aditya0155/output/github-snake.svg" />
 </picture>
+
