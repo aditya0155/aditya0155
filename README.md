@@ -47,15 +47,14 @@ In 1947, engineers working on the Harvard Mark II found a moth in a relay, causi
 
 
 
-## 📊 GitHub Stats
 
 <table width="100%">
   <tr>
-    <td width="40%" valign="middle" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya0155&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" width="100%" />
+    <td width="30%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="170" />
     </td>
     <td width="30%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=aditya0155&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" width="100%" />
+      <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="170" />
     </td>
     <td width="30%" align="center" valign="middle">
       <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="170" />
