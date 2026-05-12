@@ -48,23 +48,22 @@ In 1947, engineers working on the Harvard Mark II found a moth in a relay, causi
 
 
 
-<table width="100%" border="0" style="border-collapse: collapse; border: none;">
+<table border="0" width="100%">
   <tr>
-    <td width="30%" align="center" valign="middle" style="border: none;">
+    <td align="center">
       <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="170" />
     </td>
-    <td width="30%" align="center" valign="middle" style="border: none;">
+    <td align="center">
       <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="170" />
     </td>
-    <td width="30%" align="center" valign="middle" style="border: none;">
+    <td align="center">
       <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="170" />
     </td>
-    <td width="30%" align="center" valign="middle" style="border: none;">
+    <td align="center">
       <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="170" />
     </td>
   </tr>
 </table>
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aditya0155/aditya0155/output/github-snake-dark.svg" />
