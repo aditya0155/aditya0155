@@ -59,6 +59,9 @@ In 1947, engineers working on the Harvard Mark II found a moth in a relay, causi
     <td width="30%" align="center" valign="middle">
       <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="170" />
     </td>
+    <td width="30%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="170" />
+    </td>
   </tr>
 </table>
 <br>
