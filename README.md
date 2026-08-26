@@ -7,9 +7,9 @@
 <div align="left">
 
 **👋 Hey, I'm Aditya!**  
-🚀 I love contributing to open source in my free time.  
-📚 Currently diving into NLP & LangChain.  
-🔍 Passionate about Data Science & AI.
+ I love contributing to open source in my free time.  
+ 
+Passionate about Data Science & AI <3
 
 <br>
 
